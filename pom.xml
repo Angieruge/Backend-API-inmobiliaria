@@ -11,7 +11,7 @@
     <groupId>xyz.angie.persona</groupId>
     <artifactId>PersonaBackend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>PersonaBackend</name>
+    <name>PersonaBackendr</name>
     <description>Demo project for Spring Boot with Angular and PgAdmin4</description>
 
     <properties>
